@@ -3,31 +3,50 @@
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
+[Català][CA],
 [Deutsch][DE],
 [English][EN],
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
+[Polski][PL],
 **Português**,
+[Română][RO],
+[Tiếng Việt][VI],
+[Türkçe][TR],
+[Русский][RU],
+[العربية][AR],
+[فارسی][FA],
+[हिंदी][HI_IN],
+[বাংলা][BD_BN],
+[မြန်မာ][MM],
+[日本][JA],
 [正體中文][ZH_TW],
 [简体中文][ZH_CN],
-[한국어][KO_KR],
-[हिंदी][HI_IN],
-[Русский][RU]
+[한국어][KO_KR]
 
-
-[ID]:README.id.md
+[AR]:README.ar.md
+[BD_BN]:README.bd_bn.md
+[CA]:README.ca.md
 [DE]:README.de.md
 [EN]:README.md
 [ES]:README.es.md
-[IT]:README.it.md
+[FA]:README.fa.md
 [FR]:README.fr.md
-[PT_BR]:README.pt_br.md
-[ZH_TW]:README.zh_tw.md
-[ZH_CN]:README.zh_cn.md
-[KO_KR]:README.ko_kr.md
 [HI_IN]:README.hi_in.md
+[ID]:README.id.md
+[IT]:README.it.md
+[JA]:README.ja.md
+[KO_KR]:README.ko_kr.md
+[MM]:README.mm.md
+[PL]:README.pl.md
+[PT_BR]:README.pt_br.md
+[RO]:README.ro.md
 [RU]:README.ru.md
+[TR]:README.tr.md
+[VI]:README.vi.md
+[ZH_CN]:README.zh_cn.md
+[ZH_TW]:README.zh_tw.md
 
 Código fonte do Computador de Orientação da Apollo 11 (AGC) para o Módulo
 de Comando (Comanche055) e Módulo Lunar (Luminary099). Digitalizado
@@ -39,7 +58,7 @@ neste repositório e as verificações do código fonte original para
 eu possa ter perdido.
 
 ## Contribuindo
-Leia [CONTRIBUTING.md][7] antes de abrir um pull request.
+Leia [CONTRIBUTING.pt_br.md][7] antes de abrir um pull request.
 
 ## Compilando
 Se você estiver interessado em compilar o código-fonte original, faça o
@@ -57,12 +76,12 @@ Contato           | Ron Burkey <info@sandroid.org>
 Website           | www.ibiblio.org/apollo
 Digitalização     | Este código fonte foi transcrito ou adaptado de outra forma a partir de imagens de uma cópia impressa do Museu do MIT. A digitalização foi realizada por Paul Fjeld, e organizado por Deborah Douglas do Museu. Muitos agradecimentos a ambos.
 
-### Contract and Approvals
+### Contrato e Aprovação
 *Derivado de [CONTRACT_AND_APPROVALS.agc]*
 
 Este programa AGC também deve ser referido como Colossus 2A.
 
-Este programa é destinado ao uso no CM, conforme especificado no relatório `R-577`. Este programa foi preparado sob o projeto DSR `55-23870`, patrocinado pelo Centro de Naves Espaciais Tripuladas da Administração Nacional da Aeronáutica e do Espaço através do contrato `NAS 9-4065` com o Laboratório de Instrumentação, Instituto de Tecnologia de Massachusetts, Cambridge, Mass.
+Este programa é destinado ao uso no CM, conforme especificado no relatório `R-577`. Este programa foi preparado sob o projeto DSR `55-23870`, patrocinado pelo Centro de Naves Espaciais Tripuladas da Administração Nacional da Aeronáutica e do Espaço - NASA - através do contrato `NAS 9-4065` com o Laboratório de Instrumentação, Instituto de Tecnologia de Massachusetts - MIT, Cambridge, Mass.
 
 Enviado por           | Função | Data
 :-------------------- | :--- | :---
@@ -84,5 +103,5 @@ Ralph R. Ragan     | Vice Diretor<br>Laboratório de Instrumentação | 28 Mar 6
 [4]:http://web.mit.edu/museum/
 [5]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
-[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
+[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.pt_br.md
 [8]:https://github.com/rburkey2005/virtualagc

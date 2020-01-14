@@ -1,11 +1,21 @@
 # Contributing
 
 :crossed_flags:
-English,
+**English**,
+[Português][PT_BR],
+[Türkçe][TR],
+[العربية][AR],
+[正體中文][ZH_TW],
+[简体中文][ZH_CN],
 [한국어][KO_KR]
 
+[AR]:CONTRIBUTING.ar.md
 [EN]:CONTRIBUTING.md
 [KO_KR]:CONTRIBUTING.ko_kr.md
+[PT_BR]:CONTRIBUTING.pt_br.md
+[TR]:CONTRIBUTING.tr.md
+[ZH_CN]:CONTRIBUTING.zh_cn.md
+[ZH_TW]:CONTRIBUTING.zh_tw.md
 
 The source code in this repository was digitized manually from paper printouts, so typos and other discrepancies have been introduced accidentally. The code shall be modified to be made consistent with the scanned printouts:
 
@@ -68,6 +78,23 @@ R0820
  0820   LAMPTEST  CS  IMODES33
 ```
 
+### Spaces
+- Spaces between two characters in the string should respect the following convention (see the discussion in [#316][10]):
+  - Single space for new words.
+  - Double space for new sentences.
+  - Triple space for indentations.
+
+For example the following:
+```plain
+	1)  FOO BAR BAZ QUX QUUX QUUZ. CORGE, GRAULT,
+	GARPLY, WALDO.
+```
+Should become:
+```plain
+	1) FOO BAR BAZ QUX QUUX QUUZ.  CORGE, GRAULT,
+	   GARPLY, WALDO.
+```
+
 ## Note
 
 Before you make a PR, please make sure your changes are consistent with the scans!
@@ -82,3 +109,4 @@ Before you make a PR, please make sure your changes are consistent with the scan
 [7]:https://github.com/chrislgarry/Apollo-11/issues/159
 [8]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [9]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
+[10]:https://github.com/chrislgarry/Apollo-11/pull/316#pullrequestreview-102892741

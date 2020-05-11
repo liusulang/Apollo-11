@@ -1,5 +1,8 @@
 # Apollo-11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,6 +12,7 @@
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
+[Nederlands][NL],
 [Polski][PL],
 [Português][PT_BR],
 [Română][RO],
@@ -47,6 +51,7 @@
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
 Dieses Repository beinhaltet den originalen Quellcode des Apollo 11
 Navigationscomputers (kurz AGC) für das Kommandomodul (Comanche055)
@@ -59,7 +64,7 @@ Source Codes von [Luminary 099][5] und [Comanche 055][6] beheben, gern
 gesehen.
 
 ## Mitmachen
-Bitte lies [CONTRIBUTING.md][7], bevor du einen Pull Request öffnest.
+Bitte lies [CONTRIBUTING.de.md][7], bevor du einen Pull Request öffnest.
 
 ## Kompilieren
 Wenn du den originalen Quellcode gern selbst kompilieren möchtest,
@@ -104,5 +109,11 @@ Ralph R. Ragan     | Stellvertretender Direktor<br>Instrumentation Laboratory | 
 [4]:http://web.mit.edu/museum/
 [5]:http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
-[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
+[7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.de.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2

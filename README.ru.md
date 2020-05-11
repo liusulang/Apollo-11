@@ -1,5 +1,8 @@
 # Аполлон-11
 [![NASA][1]][2]
+[![SWH]][SWH_URL]
+[![Comanche]][ComancheMilestone]
+[![Luminary]][LuminaryMilestone]
 
 :crossed_flags:
 [Bahasa Indonesia][ID],
@@ -9,6 +12,7 @@
 [Español][ES],
 [Français][FR],
 [Italiano][IT],
+[Nederlands][NL],
 [Polski][PL],
 [Português][PT_BR],
 [Română][RO],
@@ -47,6 +51,7 @@
 [VI]:README.vi.md
 [ZH_CN]:README.zh_cn.md
 [ZH_TW]:README.zh_tw.md
+[NL]:README.nl.md
 
 Оригинальный исходный код бортового управляющего компьютера Аполлон 11 (AGC) для командного модуля (Comanche055) и лунного модуля (Luminary099).
 Оцифровано людьми из [Virtual AGC][3] и [MIT Museum][4]. Цель - это создание репозитория с оригинальным исходным кодом миссии Аполлон 11.
@@ -99,3 +104,9 @@ Ralph R. Ragan     | Заместитель директора<br>Лаборат
 [6]:http://www.ibiblio.org/apollo/ScansForConversion/Comanche055/
 [7]:https://github.com/chrislgarry/Apollo-11/blob/master/CONTRIBUTING.md
 [8]:https://github.com/rburkey2005/virtualagc
+[SWH]:https://archive.softwareheritage.org/badge/origin/https://github.com/chrislgarry/Apollo-11/
+[SWH_URL]:https://archive.softwareheritage.org/browse/origin/https://github.com/chrislgarry/Apollo-11/
+[Comanche]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/1
+[ComancheMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/1
+[Luminary]:https://badgen.net/github/milestones/chrislgarry/Apollo-11/2
+[LuminaryMilestone]:https://github.com/chrislgarry/Apollo-11/milestone/2
